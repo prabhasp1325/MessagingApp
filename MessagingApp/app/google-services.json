@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "657403044719",
+    "project_id": "ppma-3055f",
+    "storage_bucket": "ppma-3055f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657403044719:android:4f6e2c5c3feffadad13e9a",
+        "android_client_info": {
+          "package_name": "com.example.messagingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657403044719-hr4k2sk5bdhpqup3cjqjutr93hnlh736.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJaNCG3aJxI-R9wKcm0FvpYaYeN6ewER0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657403044719-hr4k2sk5bdhpqup3cjqjutr93hnlh736.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
